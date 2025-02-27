@@ -1,4 +1,4 @@
-# learn_flutter
+# flutter-quote
 
 A new Flutter project.
 
